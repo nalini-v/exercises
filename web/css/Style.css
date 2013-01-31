@@ -1,0 +1,32 @@
+
+h
+{
+	color:green;
+	font-style:normal;
+	font-size:800%;
+	text-align:center;	
+}
+
+a:link {color:red;}   
+a:visited {color:red;} 
+a:hover {color:#FF00FF;}   
+a:active {color:#FE2E2E;}  
+
+
+.members
+{
+	font-style:normal;
+	font-size:100%
+	
+}
+
+.box
+{
+
+margin-top:250px;
+margin-bottom:350px;
+margin-right:400px;
+margin-left:500px;
+background-color:#F3F781;
+
+}
